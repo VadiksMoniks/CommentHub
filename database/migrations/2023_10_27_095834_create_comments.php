@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->text('text');
             $table->string('username');
-            $table->string('document');
-            $table->string('image');
+            $table->string('document')->nullable();
+            $table->string('image')->nullable();
             $table->datetime('created_at');
         });
     }
