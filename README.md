@@ -10,10 +10,10 @@ It provides next abilities:
 
 ## Technology stack
 
-- PHP 8.1.7
+- PHP 8.*
 - node js
-- Laravel 10.30.1
-- Vue js 3.3.7
+- Laravel 10.*
+- Vue js 3.*
 - Tailwind CSS
 - MySQL
 
