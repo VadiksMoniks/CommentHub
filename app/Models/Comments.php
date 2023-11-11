@@ -274,7 +274,7 @@ class Comments extends Model
     }
 
 
-    public function pagination($filters = [], $page = 1, $perPage = 3)
+    public function pagination($filters = [], $page = 1, $perPage = 25)
     {
 
         $comments = null;
