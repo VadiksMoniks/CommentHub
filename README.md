@@ -10,7 +10,7 @@ It provides next abilities:
 
 ## Technology stack
 
-- PHP 8.*
+- PHP 8.1.7 and higher
 - node js
 - Laravel 10.*
 - Vue js 3.*
